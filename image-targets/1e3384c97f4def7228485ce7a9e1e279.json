@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 146,
+    "left": 0,
+    "width": 640,
+    "height": 853,
+    "isRotated": false,
+    "originalWidth": 640,
+    "originalHeight": 1147
+  },
+  "imagePath": "image-targets/1e3384c97f4def7228485ce7a9e1e279_luminance.jpg",
+  "metadata": null,
+  "name": "1e3384c97f4def7228485ce7a9e1e279",
+  "resources": {
+    "originalImage": "1e3384c97f4def7228485ce7a9e1e279_original.jpg",
+    "croppedImage": "1e3384c97f4def7228485ce7a9e1e279_cropped.jpg",
+    "thumbnailImage": "1e3384c97f4def7228485ce7a9e1e279_thumbnail.jpg",
+    "luminanceImage": "1e3384c97f4def7228485ce7a9e1e279_luminance.jpg"
+  },
+  "created": 1788908735890,
+  "updated": 1788908735890
+}
